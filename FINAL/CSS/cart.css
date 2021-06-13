@@ -1,0 +1,169 @@
+header{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 90px;
+    width: 100%;
+    font-size: 10px;
+    text-align: start;
+    color:#FBE6E1;
+    padding-top: 9px;
+    font-family: Zrnic;
+    background:#50BFA0 ;
+  }
+  header h1{
+    position: absolute;
+    top: 18px;
+    left: 10px;
+    font-size: 25px;
+}
+div.navbar{
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.navbar {
+  position: absolute;
+  right: 10px;
+  margin-top: 10px;
+  text-align: left;
+  width: 70%;
+  float: left;
+  display:flex;
+  font-size: 25px;
+  font-family: Zrnic;
+  justify-content: space-evenly;
+  background-color: #50BFA0;
+  overflow: hidden;
+  letter-spacing: 0.8;
+}
+  
+.navbar a {
+    margin-top: 5px;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 10px;
+    color: #FBE6E1;
+}
+  
+.navbar a:hover {
+    color:#f8c6ba;
+}
+  
+@media screen and (max-width: 500px) {
+  .navbar a {
+  float: none;
+  display: block;
+}
+}
+
+body{
+    background: #FBDFC6;
+    font-family: Zrnic;
+}
+
+.BOX{
+    display: flex;
+}
+
+.Bill_Pad img{
+    transform: scale(1.1);
+    margin-top: 200px;
+    margin-left: 250px;
+    width: 500px;
+}
+
+.Bill_Pad table{
+    position: absolute;
+    top: 150px;
+    left: 175px;
+    font-size: 35px;
+    color: #50BFA0;
+}
+.Bill_Pad th{
+    column-width: 150px;
+    padding: 0px 10px;
+    font-family: Zrnic;
+    text-decoration: underline #50BFA0;
+}
+#items {
+    position: absolute;
+    margin-top: 10px;
+    font-family: Zrnic;
+    font-size: 25px;
+}
+#items td{
+    padding: 10px 40px;
+    column-width: 150px;
+}
+
+.Total{
+    height: 200px;
+    width: 905px;
+    
+    margin-left: 994px;
+    background-color: #FAC291;
+}
+p{
+    padding-top: 100px;
+    text-align: center;
+    font-size: 35px;
+    color: #35806B;
+    text-decoration: underline;
+}
+
+.MAP img{
+    width: 900px;
+    margin-left: 994px;
+    background-color: white;
+
+}
+
+input{
+    width: 905px;
+    margin-left: 994px;
+    height: 100px;
+    font-size: 25px;
+    font-family: Zrnic;
+    padding-left: 80px;
+    text-transform: uppercase;
+    background-color: #BF4226;
+    color: white;
+    border: none;
+    letter-spacing: 0.8;
+}
+
+input:hover{
+    background-color: #6b200f;
+    cursor: pointer;
+}
+
+
+
+
+footer{
+    position: absolute;
+    top: 1000px;
+    left: 0px;
+    background-color:#50BFA0;
+    width: 100%;
+    height: 50px;
+    color: #FBE6E1; 
+}
+  
+.social-media{
+    display:flex;
+    justify-content:space-around;
+    width: 10%;
+}
+    
+.social-media a{
+    right: 1px;
+    margin-top:10px;
+    color:#FBE6E1;
+    font-size:25px;
+    
+}
+    
+.social-media a:hover{
+    color:#fabfb0;
+}

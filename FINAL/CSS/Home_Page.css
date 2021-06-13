@@ -1,0 +1,440 @@
+#Path_7 {
+	fill: #50bfa0;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 100%;
+	height: 141.727px;
+	left: 0px;
+	top: -25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("/IMGS/mainpageimg.png");
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#maintitle 
+{
+	position: absolute;
+	overflow: visible;
+	font-size: 50px;
+	color: white;
+	left: 42%;
+	text-align: center;
+	letter-spacing: 5;
+	font-family: Zrnic
+}
+
+#navigationbar
+{
+	position: absolute;
+	width: 100%;
+	height: 50px;
+	
+}
+
+#rectnavbar
+{
+	fill: rgba(80,191,160,1);
+}
+.rectnavbar
+{
+	position: absolute;
+	overflow: visible;
+	width: 100%;
+	height: 50px;
+	left: -10px;
+	top: 0px;
+}
+
+#therollz
+{
+	position: absolute;
+	font-size: 20px;
+	color: #FBE6E1;
+	left: 10px;
+	top: 15px;
+	text-align: center;
+	font-size: 25px;
+	font-family: Zrnic
+}
+
+#reviews
+{
+	position: absolute;
+	font-size: 20px;
+	color: #FBE6E1;
+	left: 700px;
+	top: 15px;
+	text-align: center;
+	font-size: 25px;
+	font-family:  Zrnic
+}
+
+#contact
+{
+	position: absolute;
+	font-size: 20px;
+	color: #FBE6E1;
+	left: 840px;
+	top: 15px;
+	text-align: center;
+	font-size: 25px;
+	font-family:  Zrnic
+}
+
+#about a
+{
+	text-decoration: none;
+	color: #FBE6E1;
+}
+
+#about
+{
+	position: absolute;
+	font-size: 20px;
+	color: #FBE6E1;
+	left: 990px;
+	top: 15px;
+	text-align: center;
+	font-size: 25px;
+	font-family:  Zrnic;
+}
+
+#subscription
+{
+	position: absolute;
+	font-size: 20px;
+	color: #FBE6E1;
+	left: 1140px;
+	top: 15px;
+	text-align: center;
+	font-size: 25px;
+	font-family:  Zrnic
+}
+
+#account {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 1850px;
+	top: 23px;
+	overflow: visible;
+}
+#Union_1 {
+	fill: rgba(251,230,225,1);
+}
+.Union_1 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#map {
+	position: absolute;
+	width: 16px;
+	height: 21.333px;
+	left: 1800px;
+	top: 18px;
+	overflow: visible;
+}
+#map_ {
+	fill: rgba(251,230,225,1);
+}
+.map_ {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 21.333px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#makechoose {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 786px;
+	left: 0px;
+	top: 567px;
+}
+#leftrect {
+	fill: rgba(242,151,39,1);
+}
+.leftrect {
+	position: absolute;
+	overflow: visible;
+	width: 979px;
+	height: 800px;
+	left: 0px;
+	/* top: -513px; */
+}
+#rightrect {
+	fill: rgba(242,129,29,1);
+}
+.rightrect {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 800px;
+	left: 960px;
+	/* top: -513px; */
+	
+}
+#circle {
+	opacity: 0.78;
+	fill: rgba(191,66,38,1);
+}
+.circle {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 280px;
+	left: 865px;
+	top: 300px;
+}
+#makearoll
+{
+	position: absolute;
+	font-size: 70px;
+	color: #FBE6E1;
+	left: 250px;
+	top: 300px;
+	text-align: center;
+	font-family:  Zrnic;
+}
+
+#choosearoll
+{
+	position: absolute;
+	font-size: 70px;
+	color: #FBE6E1;
+	right: -250px;
+	top:300px;
+	text-align: center;
+	font-family:  Zrnic;
+}	
+
+#therollzmid
+{
+	position: absolute;
+	font-size: 30px;
+	color: #FBE6E1;
+	left: 910px;
+	top: 380px;
+	text-align: center;
+	font-family:  Zrnic;
+}
+
+#bottombar {
+	position: absolute;
+	width: 100px;
+	left: 0px;
+	top: 1365px;
+	overflow: visible;
+}
+#bottombar1 {
+	fill: rgba(224,246,240,1);
+
+}
+.bottombar1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 177px;
+	left: 0px;
+	top: 0px;
+}
+
+
+#num
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1150px;
+	top: 30px;
+	font-family: Zrnic;
+}
+
+#email
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1150px;
+	top: 60px;
+	font-family: Zrnic;
+}
+
+#contactus
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1400px;
+	top: 30px;
+	font-family: Zrnic;
+}
+
+#faq
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1400px;
+	top: 60px;
+	font-family: Zrnic;
+}
+
+#orderandpay
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1400px;
+	top: 90px;
+	font-family: Zrnic;
+}
+
+#shipping
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1400px;
+	top: 120px;
+	text-align: center;
+	font-family: Zrnic;
+}
+
+#bulkorders
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1400px;
+	top: 150px;
+	text-align: center;
+	font-family: Zrnic;
+}
+
+#reachus
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1400px;
+	top: 180px;
+	text-align: center;
+	font-family: Zrnic;
+}
+
+#aboutus
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1650px;
+	top: 30px;
+	text-align: center;
+	font-family: Zrnic;
+}
+
+#privacy
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1650px;
+	top: 60px;
+	text-align: center;
+	font-family: Zrnic;
+}
+
+#termcond
+{
+	position: absolute;
+	font-size: 20px;
+	color: #c8745e;
+	left: 1650px;
+	top: 90px;
+	text-align: center;
+	font-family: Zrnic;
+}
+
+#footer2
+{
+	position: absolute;
+	height: 50px;
+	left: 0px;
+	top: 1615px;
+	overflow: visible;
+}
+
+#footerrect {
+	fill: rgba(80,191,160,1);
+}
+.footerrect {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+
+#facebook {
+	fill: rgba(251,230,225,1);
+}
+.facebook {
+	overflow: visible;
+	position: absolute;
+	width: 7.311px;
+	height: 14px;
+	left: 1750px;
+	top: 18px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#twitter {
+	fill: rgba(251,230,225,1);
+}
+.twitter {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 11.355px;
+	left: 1782.5px;
+	top: 19px;
+	transform: matrix(1,0,0,1,0,0);
+}
+
+#instagram {
+	fill: rgba(251,230,225,1);
+}
+.instagram {
+	overflow: visible;
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	left: 1815px;
+	top: 18px;
+	transform: matrix(1,0,0,1,0,0);
+}

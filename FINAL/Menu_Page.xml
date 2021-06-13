@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Menu_Page.xslt"?>
+<Menu>
+    <food>
+        <id>0</id>
+        <name>Cheeseburger Roll </name>
+        <price>₹150/-</price>
+        <rate>150</rate>
+        <desp>These clever, crunchy spring rolls are filled 
+        with a mixture of beef, mustard, mozzarella and onion,
+        which means you get the convenience of a finger
+        food and the flavours of a cheeseburger.</desp>
+        <ing>ground beef</ing>
+        <ing>onion, chopped</ing>
+        <ing>chopped dill or sweet pickles</ing>
+        <ing>shredded Cheddar cheese</ing>
+        <ing>prepared yellow mustard </ing>
+        <ing>package egg roll wrappers</ing>
+        <ing>vegetable oil for frying</ing>
+    </food>
+
+    <food>
+        <id>1</id>
+        <name>Mexican-style Roll </name>
+        <price>₹200/-</price>
+        <rate>200</rate>
+        <desp>A Mexican/American twist on the Aussie classic, 
+        which was in turn inspired by Asian spring rolls!
+        This recipe has slow-cooked beef barbacoa filling
+        inside a corn or flour tortilla casing.</desp>
+        <ing> ground beef</ing>
+        <ing>chopped tomato </ing>
+        <ing>chopped red sweet pepper</ing>
+        <ing>red wine vinegar</ing>
+        <ing>Taco seasoning</ing>
+        <ing>Shredded Cheese </ing>
+        <ing>Mexican Corn </ing>
+    </food>
+
+    <food>
+        <id>2</id>
+        <name>Egg Roll</name>
+        <price>₹150/-</price>
+        <rate>150</rate>
+        <desp>Egg Rolls and the PERFECT crispy appetizers, 
+         made with chicken, cabbage, mushrooms,
+         and seasoning wrapped in egg roll wrappers.</desp>
+        <ing>ground pork</ing>
+        <ing>ground ginger  </ing>
+        <ing>garlic powder</ing>
+        <ing>coleslaw mix</ing>
+        <ing>egg roll wrappers</ing>
+        <ing>Shredded Cheese </ing>
+        <ing>Mexican Corn</ing>
+    </food>
+
+    <food>
+        <id>3</id>
+        <name>Vegan Spring Rolls </name>
+        <price>₹250/-</price>
+        <rate>250</rate>
+        <desp>The golden rolls with pork meatballs,
+         rice noodles, fresh herbs and a sweet and spicy sauce,
+         slow-cooked and fried.Best Experience!! </desp>
+        <ing>Chinese cabbage</ing>
+        <ing>Brown Sugar Spring Rolls</ing>
+        <ing>garlic powder</ing>
+        <ing>soy sauce </ing>
+        <ing>rice paper wrappers</ing>
+        <ing>Shredded Cheese </ing>
+        <ing>Red Curry</ing>
+    </food>
+
+    <food>
+        <id>4</id>
+        <name>Pepperoni Pizza Rolls </name>
+        <price>₹200/-</price>
+        <rate>200</rate>
+        <desp>Crispy, crunchy, chewy, melty pepperoni rolls
+         including Buffalo Chicken Dip, Cheesy Beef Rotel Dip
+         and Ultimate Bean Dip.</desp>
+        <ing>Pepperoni Seasoned Pork</ing>
+        <ing>Chicken Topping</ing>
+        <ing>Beef Pizza Topping</ing>
+        <ing>Imitation Mozzarella Cheese</ing>
+        <ing>rice paper wrappers</ing>
+        <ing>Shredded Cheese </ing>
+        <ing>Tomato</ing>
+    </food>
+
+    <food>
+        <id>5</id>
+        <name>Fried Honey Rolls </name>
+        <price>₹200/-</price>
+        <rate>200</rate>
+        <desp>Traditionally made for celebrations and special occasions, 
+        these deep-fried pastries drizzled with honey are also known as diples.</desp>
+        <ing>honey buns</ing>
+        <ing>butter</ing>
+        <ing>sweet bread </ing>
+    </food>
+
+    <food>
+        <id>6</id>
+        <name>Paneer Kathi Roll </name>
+        <price>₹250/-</price>
+        <rate>250</rate>
+        <desp>Popular Indian street-food, Paneer Kathi rolls are warm,
+         layered parathas filled with spicy paneer, 
+         mixed peppers and sweet caramelized onions.</desp>
+        <ing>Mixed Bell Peppers </ing>
+        <ing>Paneer</ing>
+        <ing>Red Onions </ing>
+        <ing>Spices </ing>
+        <ing>Green Chutney </ing>
+        <ing>Shredded Cheese </ing>
+    </food>
+
+    <food>
+        <id>7</id>
+        <name>Sausage Rolls </name>
+        <price>₹180/-</price>
+        <rate>180</rate>
+        <desp>meat pies, pasties, or Sausage Rolls, 
+        all over the world you can find versions of the simple, 
+        yet delicious combination of ground meat and buttery pastry.</desp>
+        <ing>Sausage </ing>
+        <ing>Sesame Seeds </ing>
+        <ing>Milk Wash </ing>
+        <ing>Dutch Crunch Bread</ing>
+        <ing> Peri Peri Sauce</ing>
+        <ing>Shredded Cheese </ing>
+    </food>
+
+    <food>
+        <id>8</id>
+        <name>Butter Chicken</name>
+        <price>₹245/-</price>
+        <rate>245</rate>
+        <desp>An all time favorite-bonless Chicken roll , soaked in
+        spiced yoghurt, cooked in a rich tomato butter gravy 
+        topped with crunchy crackers.</desp>
+        <ing>butter chicken </ing>
+        <ing>sliced onion </ing>
+        <ing>green chilies </ing>
+        <ing>Spices</ing>
+        <ing>Shredded Cheese </ing>
+    </food>
+
+    <food>
+        <id>9</id>
+        <name>Chinese Egg Roll</name>
+        <price>₹180/-</price>
+        <rate>180</rate>
+        <desp>Egg rolls are hard to resist ,
+            especially when each bite has the perfect balance
+            of crunchy texture and savory filling. These vegetarian finger foods are
+            filled with mushrooms,carrots etc.</desp>
+        <ing>eggs, beaten</ing>
+        <ing>cabbage, finely shredded</ing>
+        <ing>carrot, julienned</ing>
+        <ing> shredded bamboo shoots</ing>
+        <ing>barbequed or roasted pork</ing>
+        <ing>egg roll wrappers</ing>
+        <ing>shredded wood ear mushroom</ing>
+    </food>
+
+    <food>
+        <id>10</id>
+        <name>Aloo Roll</name>
+        <price>₹250/-</price>
+        <rate>250</rate>
+        <desp>Aloo Kathi Roll is a very popular street food in India.
+            It is made by wrapping potato cutlets in Indian Bread with
+            Green Chutney and  delicious wraps or rolls stuffed with a
+            spiced mix veg stuffing</desp>
+        <ing>Shredded Cheese</ing>
+        <ing>Cabbage shredded</ing>
+        <ing>Carrot grated</ing>
+        <ing>Capsicum (Green bell pepper) sliced</ing>
+        <ing>Red onion thinly sliced</ing>
+        <ing>Mint leaves finely chopped</ing>
+        <ing>Garam masala</ing>
+    </food>
+
+    <food>
+        <id>11</id>
+        <name>Cheese Bacon Roll</name>
+        <price>₹200/-</price>
+        <rate>200</rate>
+        <desp>A bacon roll is a simple way of serving bacon in the
+            form of a sandwich, using a soft or crusty bread roll.
+            Most often served with brown sauce or tomato ketchup.</desp>
+        <ing>bread flour</ing>
+        <ing>melted butter</ing>
+        <ing> bacon rashers, finely chopped</ing>
+        <ing>coarsely grated cheddar</ing>
+        <ing>Red onion thinly sliced</ing>
+        <ing>caster sugar</ing>
+        <ing>Cheese</ing>
+    </food>
+
+    <food>
+        <id>12</id>
+        <name>Bread Roll</name>
+        <price>₹280/-</price>
+        <rate>280</rate>
+        <desp>A bread roll is a small, usually round loaf of bread for
+            one person. Bread rolls are commonly served as a meal accompaniment,
+            used to make sandwiches similar to those produced using slices of bread.</desp>
+        <ing>multi grain or white bread</ing>
+        <ing>melted butter</ing>
+        <ing> dry pomegranate seeds powder </ing>
+        <ing>cumin powder</ing>
+        <ing>garam masala powder</ing>
+        <ing>black pepper powder</ing>
+        <ing>Cheese</ing>
+    </food>
+
+    <food>
+        <id>13</id>
+        <name>Hotdog Bread Roll</name>
+        <price>₹190/-</price>
+        <rate>190</rate>
+        <desp>Cheese Dog Bread Rolls are as fun to make as they are to eat
+            and are the best use for day-old sliced bread. Golden, crunchy,
+            and stuffed with meaty hot dogs and melty cheese, they’re a hearty snack.</desp>
+        <ing>white bread</ing>
+        <ing> hot dogs</ing>
+        <ing>quick melt cheese </ing>
+        <ing>eggs</ing>
+        <ing> Panko bread crumbs</ing>
+        <ing>canola oil</ing>
+        <ing>Cheese</ing>
+    </food>
+
+    <food>
+        <id>14</id>
+        <name>Classic Mutton Roll</name>
+        <price>₹180/-</price>
+        <rate>180</rate>
+        <desp>Mutton Frankie is the classic one and is being served from ages.
+        Frankie is an Indian bread rolled  with mutton tossed in hot spices and
+        flavored onions.Try out this old classic recipe to refresh your mood.</desp>
+        <ing>mutton</ing>
+        <ing>onion</ing>
+        <ing>quick melt cheese </ing>
+        <ing> purpose flour</ing>
+        <ing> Panko bread crumbs</ing>
+        <ing> garam masala powder</ing>
+        <ing>chaat masala</ing>
+    </food>
+
+    <food>
+        <id>15</id>
+        <name>Paneer Chilli  Roll</name>
+        <price>₹200/-</price>
+        <rate>200</rate>
+        <desp>Popular Indian street-food, Paneer Kathi rolls are warm,
+            layered parathas filled with spicy paneer, mixed peppers and sweet caramelized
+            onions. Whether you make it for a quick weeknight meal or a leisurely gathering,
+            these kathi rolls are sure to be a hit!</desp>
+        <ing> paneer</ing>
+        <ing>cornstarch</ing>
+        <ing> rice vinegar </ing>
+        <ing> black pepper ground</ing>
+        <ing>avocado oil</ing>
+        <ing>chili sauce</ing>
+        <ing>green onions chopped</ing>
+    </food>
+
+    <food>
+        <id>16</id>
+        <name>Veg Shama Roll</name>
+        <price>₹180/-</price>
+        <rate>180</rate>
+        <desp>When it comes to starters, Chicken Shami Kebab is one of the best
+            non-vegetarian snacks to be served.Shami kebabs are succulent minced chicken
+            with chana dal with spicy masala filling inside and crispy fried on the outside. </desp>
+        <ing> Kabuli Chana</ing>
+        <ing>Fennel seeds</ing>
+        <ing>Potatoes </ing>
+        <ing>Gram flour</ing>
+        <ing> Chaat Masala Powder</ing>
+        <ing> garam masala powder</ing>
+        <ing> Ginger</ing>
+    </food>
+</Menu>

@@ -1,0 +1,118 @@
+#carousel {
+    position: relative;
+    /* height: 90px; */
+    top: 300px;
+    left: 250px;
+    transform: translateY(-50%);
+    overflow: visible;
+    scale: 50%;
+  }
+  #carousel div {
+    position: absolute;
+    transition: transform 1s, left 1s, top 1s, opacity 1s, z-index 0.5s, fill 2s;
+    opacity: 1;
+  }
+  /* break here */
+
+  #carousel div.hideLeft {
+    left: 350px;
+    top: 70px;
+    transform: translateY(50%);
+    transform: translateX(-50%);
+    transform: scale(0.7, 0.7);
+    opacity: 0;
+  }
+  #carousel div.prevLeftSecond {
+    z-index: 4;
+    left: 550px;
+    top: 55px;
+    transform: translateY(50%);
+    transform: translateX(-50%);
+    transform: scale(0.8, 0.8);
+    /* opacity: 0.7; */
+  }
+  #carousel div.prev {
+    z-index: 5;
+    left: 700px;
+    top: 30px;
+    transform: translateY(50px);
+    transform: translateX(-50%);
+    transform: scale(0.9, 0.9);
+    /* opacity: 0.8; */
+  }
+  #carousel div.selected {
+    z-index: 10;
+    left: 975px;
+    top: 1px;
+    transform: translateY(200px);
+    transform: translateX(-50%);
+  }
+  #carousel div.next {
+    z-index: 5;
+    left: 1250px;
+    top: 30px;
+    transform: translate(50%); 
+    transform: translateX(-50%);
+    transform: scale(0.9, 0.9);
+    /* opacity: 0.8; */
+  }
+  #carousel div.nextRightSecond {
+    z-index: 4;
+    left: 1400px;
+    top: 55px;
+    transform: translateY(50%); 
+    transform: translateX(-50%);
+    transform: scale(0.8, 0.8);
+    /* opacity: 0.7; */
+  }
+  #carousel div.hideRight {
+    left: 1600px;
+    top: 70px;
+    transform: translateY(50%);
+    transform: translateX(-50%);
+    transform: scale(0.7, 0.7);
+    opacity: 0;
+  }
+/* BREAK HERE */
+  #carousel div.hideLeft svg{
+    fill: rgba(245,177,93,1);
+    stroke: rgba(242,151,39,1);
+    stroke-width: 1px;
+    transition: fill 1.5s;
+  }
+  #carousel div.prevLeftSecond svg{
+    fill: rgb(245, 210, 93);
+	  stroke: rgba(242,151,39,1);
+    stroke-width: 1px;
+    transition: fill 1.5s;
+  }
+  #carousel div.prev svg{
+    fill: rgba(245,177,93,1);
+	  stroke: rgba(242,151,39,1);
+    stroke-width: 1px;
+    transition: fill 1.5s;
+  }
+  #carousel div.selected svg{
+    fill: rgb(245, 149, 93);
+	  stroke: rgba(242,151,39,1);
+	  stroke-width: 1px;
+    transition: fill 1.5s;
+  }
+  #carousel div.next svg{
+    fill: rgba(245,177,93,1);
+    stroke: rgba(242,151,39,1);
+    stroke-width: 1px;
+    transition: fill 1.5s;
+  }
+  #carousel div.nextRightSecond svg{
+    fill: rgb(245, 210, 93);
+	  stroke: rgba(242,151,39,1);
+    stroke-width: 1px;
+    transition: fill 1.5s;
+  }
+  #carousel div.hideRight svg{
+    fill: rgba(245,177,93,1);
+	  stroke: rgba(242,151,39,1);
+    stroke-width: 1px;
+    transition: fill 1.5s;
+  }

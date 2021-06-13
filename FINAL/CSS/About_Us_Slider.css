@@ -1,0 +1,269 @@
+.mediaViewInfo {
+	--web-view-name: About Us;
+	--web-view-id: About_Us;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: About_Us;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#About_Us {
+	position: absolute;
+	width: 1920px;
+	height: 1507px;
+	overflow: hidden;
+	--web-view-name: About Us;
+	--web-view-id: About_Us;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#bg_grad {
+	fill: url(#bg_grad);
+}
+.bg_grad {
+	position: absolute;
+	overflow: visible;
+}
+#members {
+	position: absolute;
+	left: 744px;
+	top: 306px;
+	overflow: visible;
+}
+.Info_rect {
+	position: absolute;
+	overflow: visible;
+}
+.faces{
+	position: absolute;
+	overflow: visible;
+
+	left: 107px;
+	top: 67px;
+}
+.Name_Surname{
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(191,66,38,1);
+	text-align: center;
+
+	left: 30px;
+	top: 258px;
+	width: 301px;
+}
+.Designation{
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	line-height: 30px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 20px;
+	color: rgba(191,66,38,1);
+
+	left: 30px;
+	top: 292px;
+	width: 301px;
+}
+
+.Info_data{
+	position: absolute;
+	line-height: 24px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 18px;
+	color: rgba(191,66,38,1);
+
+	left: 30px;
+	top: 360px;
+	width: 301px;
+}
+.Titles{
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Zrnic;
+	font-size: 45px;
+	color: rgba(191,66,38,1);
+	letter-spacing: 0.8px;
+}
+#TEAM {    
+	left: 1300px;
+	top: 240px;
+}
+#info {
+	position: absolute;
+	left: -20px;
+	top: 206px;
+	overflow: visible;
+}
+.Info_Bg {
+	fill: rgba(80,191,160,1);
+	position: absolute;
+	overflow: visible;
+	width: 916px;
+	height: 634px;
+}
+#About_Us_info {
+	left: 40px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 396px;
+	height: 450px;
+	line-height: 33px;
+	margin-top: -3.5px;
+	text-align: justify;
+	font-family: Zrnic;
+	font-size: 26px;
+	color: rgba(251,230,225,1);
+	column-count: 1;
+}
+#about_us_title {
+	position: absolute;
+	overflow: visible;
+	top: 100px;
+}
+.about_us_bg {
+	fill: rgba(251,230,225,1);
+	filter: drop-shadow(0px 10px 10px #00000029);
+	position: absolute;
+	overflow: visible;
+}
+#about_us_text {
+	left: 864px;
+	top: 40px;
+}
+.Nav_bar {
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Zrnic;
+	font-size: 25px;
+	color: rgba(251,230,225,1);
+	letter-spacing: 0.8px;
+}
+.Nav_bar_bg {
+	fill: rgba(80,191,160,1);
+	position: absolute;
+	overflow: visible;
+}
+#REVIEWS {
+	top: 36px;
+	left: 663px;
+}
+#CONTACT_bp {
+	top: 36px;
+	left: 841px;
+}
+#ABOUT {
+	top: 36px;
+	left: 1019px;
+}
+#SUBSCRIPTION {
+	top: 36px;
+	left: 1173px;
+}
+#THE_ROLLZ {
+	top: 36px;
+	left: 30px;
+}
+#Account {
+	top: 42px;
+	left: 1828px;
+}
+#Home {
+	top: 39px;
+	left: 1776px;
+}
+.Footer {
+	position: absolute;
+	top: 1080px;
+	overflow: visible;
+}
+.Base {
+	fill: rgba(224,246,240,1);
+	position: absolute;
+	overflow: visible;
+}
+.Footer_text{
+	overflow: visible;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Zrnic;
+	font-size: 25px;
+	color: rgba(191,66,38,1);
+	letter-spacing: 0.8px;
+}
+#Footer_col1 {
+	position: absolute;
+	left: 1231px;
+	top: 66px;
+}
+#Footer_col2 {
+	position: absolute;
+	left: 1559px;
+	top: 66px;
+}
+#Footer_col3 {
+	position: absolute;
+	left: 946px;
+	top: 66px;
+}
+#Info_footer {
+	position: absolute;
+	top: 377px;
+	overflow: visible;
+}
+#Footer_Base {
+	fill: rgba(80,191,160,1);
+}
+.Footer_Base {
+	position: absolute;
+	overflow: visible;
+}
+#_PrameetAglave {
+	left: 30px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	white-space: nowrap;
+	line-height: 15px;
+	font-family: Arial;
+	font-size: 10px;
+	color: rgba(251,230,225,1);
+}
+#Social_img1 {
+	overflow: visible;
+	position: absolute;
+	left: 1883px;
+	top: 18px;
+}
+#Social_img2 {
+	overflow: visible;
+	position: absolute;
+	left: 1839px;
+	top: 19px;
+}
+#Social_img3 {
+	overflow: visible;
+	position: absolute;
+	left: 1795px;
+	top: 17px;
+}

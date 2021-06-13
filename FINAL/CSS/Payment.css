@@ -1,0 +1,163 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  list-style: none;
+}
+
+body{
+  fill: url(#bg_o);
+
+}
+
+.bg_o {
+  position:visible;
+  overflow: hidden;
+  width: 1920px;
+  height: 1080px;
+  bottom: 500px;
+}
+
+li h2{
+  color:#bf4226;
+  font-family: "Arial";
+  font-size: 25px;
+  position: absolute;
+  left:890px;
+  top:200px;
+}
+
+li a img{
+  position: absolute;
+  left:750px;
+  top:200px;
+}
+
+.stage{
+  position: absolute;
+  top:300px;
+  left:510px;
+}
+
+header{
+  background-image: url("/IMGS/top.png");
+  height: 142px;
+  width:1920px;
+  font-size:30px;
+  text-align: center;
+  color:#fbe6e1;
+  padding-top: 25px;
+  font-family: Zrnic;
+  position:absolute;
+}
+
+.wrapper{
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  max-width: 350px;
+  width: 100%;
+  padding:10px;
+}
+
+.wrapper h2{
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 35px;
+  font-family:"Arial";
+  font-weight: bold;
+  color:#bf4226;
+}
+.Choose-card{
+  background: #E0F6F0;
+}
+
+.Choose-card h4{
+  font-size: 20px;
+  margin:10px 0 0 10px;
+  text-align:center;
+  letter-spacing: 2px;
+  font-family:"Arial"; 
+  color:#bf4226;
+}
+
+.Choose-card i{
+  margin-top: 15px;
+  margin-left:27px;
+  margin-bottom:10px;
+  width:15%;
+  font-size: 25px;
+}
+
+.wrapper input{
+  width:100%;
+  padding: 12px;
+  background-color:rgba(224,246,240,1);
+  color:#bf4226;
+  font-family: "Arial";
+  /* border:1px solid #fff; */
+  box-sizing: border-box;
+  font-size:15px;
+}
+
+.wrapper .btn input{
+  margin-top: 15px;
+  width:327px;
+  height: 48px;
+  border-radius:3px;
+  background-color:#BF4226;
+  color:#E0F6F0;
+  font-weight: bold;
+  border:none;
+  font-size:15px;
+  cursor: pointer;
+  font-family:"Arial";
+}
+
+.wrapper .btn input:hover{
+  background-color:#BB5A3A;
+}
+
+footer{
+  position: absolute;
+  top:1080px;
+  background-color:#50BFA0;
+  width:1920px;
+  height: 50px;
+  color: white; 
+}
+
+.social-media{
+  display:flex;
+  justify-content:space-around;
+  width: 10%;
+  margin-left: 87%;
+}
+
+.social-media a{
+  margin-top:17px;
+  color:#FBE6E1;
+  font-size:20px;
+
+}
+
+.social-media a:hover{
+  color:#f8bfb1;
+}
+
+
+#error_message{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color:#ff8566;
+  font-family: "Arial";
+  padding: 0px;
+  text-align: center;
+  font-size: 16px;
+  transition: all 0.5s ease;
+  color:#E0F6F0;
+}
+
+
